@@ -9,9 +9,9 @@ Zion AI Social Listening — brand monitoring and sentiment across social platfo
 
 - [AI Social Manager](https://github.com/Zion-support/ai-social-manager) — content scheduling and analytics
 - [Zion AI SEO Optimizer](https://github.com/Zion-support/zion-ai-seo-optimizer) — AI SEO optimization
+- [Zion AI Email Marketing Pro](https://github.com/Zion-support/zion-ai-email-marketing-pro) — AI email marketing
 - [Zion Content Studio](https://github.com/Zion-support/zion-content-studio) — AI content studio
 - [Zion AI Call Analytics](https://github.com/Zion-support/zion-ai-call-analytics) — voice-of-customer insights
-- [Zion AI Churn Early Warning](https://github.com/Zion-support/zion-ai-churn-early-warning) — churn risk detection
 
 ## Part of the Zion App Network
 🌐 [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://zion-support.github.io/zion-plans/) · [Portal](https://zion-support.github.io/zion-portal/)
